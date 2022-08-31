@@ -3,3 +3,4 @@ capitulo 2: flujo de trabajo basico
 capitulo 3: gestion de ramas 
 capitulo 4: repositorios remotos
 añadido indice del libro 
+añadido capitulo 3 sobre gestion de ramas
